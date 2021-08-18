@@ -1,4 +1,4 @@
-### Hi people, my name is Wilber 👋
+### Hi devs, my name is Wilber 👋
 
 💻 I’m currently working as a front end developr 
 
